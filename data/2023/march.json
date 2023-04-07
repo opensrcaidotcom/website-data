@@ -1,0 +1,32 @@
+[
+  {
+    "title": "GPT4All: a 7B param language model finetuned from a curated set of 400k GPT-Turbo-3.5 assistant-style generation",
+    "url": "https://twitter.com/andriy_mulyar/status/1640836003194630144",
+    "tags": [],
+    "date": "2023-03-28"
+  },
+  {
+    "title": "Introducing Mozilla.ai: Investing in trustworthy AI",
+    "url": "https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/",
+    "tags": [],
+    "date": "2023-03-22"
+  },
+  {
+    "title": "Alpaca: A Strong, Replicable Instruction-Following Model",
+    "url": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
+    "tags": [],
+    "date": "2023-03-13"
+  },
+  {
+    "title": "Announcing OpenChatKit: fully open source under the Apache-2.0 lic",
+    "url": "https://www.together.xyz/blog/openchatkit",
+    "tags": [],
+    "date": "2023-03-10"
+  },
+  {
+    "title": "Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality",
+    "url": "https://vicuna.lmsys.org/",
+    "tags": [],
+    "date": "2023-03-30"
+  }
+]

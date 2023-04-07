@@ -1,6 +1,6 @@
 # website-data
 
-An open source community-curated list of Open Source AI developments : https://aleidar.com/opensrcai/
+An open source community-curated list of Open Source AI developments : https://www.opensrcai.com
 
 ## Adding a link
 
